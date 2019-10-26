@@ -11,4 +11,4 @@ eureka:
   instance:
     prefer-ip-address: true
 xiandada:
-  name: push-config123456
+  name: shena
